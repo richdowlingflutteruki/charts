@@ -2,10 +2,10 @@ apiVersion: v1
 entries:
   guestbook:
   - apiVersion: v1
-    created: "2024-05-14T11:04:32.459959+01:00"
-    digest: 73752480457139d0f7b56a530497d25326b53ddc3b6b1f90c5e6e9c61f5c5a1b
+    created: "2024-05-14T11:11:50.666355+01:00"
+    digest: 67a8b1c24c17e01ecd6d692880c06dd8c46ed468e7df20c82296a2afcb7a51e2
     name: guestbook
     urls:
     - https://richdowlingflutteruki.github.io/charts/guestbook-3.tgz
     version: "3"
-generated: "2024-05-14T11:04:32.457958+01:00"
+generated: "2024-05-14T11:11:50.664829+01:00"
